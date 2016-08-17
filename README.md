@@ -2,15 +2,19 @@
 
 #### Introduction to Java 
 >Java is a general purpose, concurrent, class-based, object-oriented computer programming language. Java compilers virtual machines, and class libraries were developed by Sun from 1991. Java was originally developed by James Gosling at Sun Microsystems and released in 1995 as a core component of Sun Microsystems' Java platform.
+
 #### Java Token Set
 >A Java program is basically a collection of classes. A class is defined by a set of declaration statements and methods containing executable statements. Most statements contain expressions, which describe the actions carried out on data. Smallest individual unit in a program are known as tokens. The compiler recognizes them for building up expressions and statements. 
 
 #### Data types 
->A data type in a programming language is a set of data with values having predefined characteristics. Examples of data types are: integer,floating point unit number,character, string, and pointer. 
+>A data type in a programming language is a set of data with values having predefined characteristics. Examples of data types are: integer,floating point unit number,character, string, and pointer.
+ 
 #### Classes in Java  
->A class specifies the design of an object. It states what data an object can hold and the way it can behave when using the data. 
+>A class specifies the design of an object. It states what data an object can hold and the way it can behave when using the data.
+ 
 #### Control statements in Java
->The control statement is used to control the flow of execution of the program .This execution order depends on the supplied data values and the conditional logic 
+>The control statement is used to control the flow of execution of the program .This execution order depends on the supplied data values and the conditional logic
+ 
 #### OOPS
 >Java is an object oriented language. Java, unlike some other languages, is considered as a pure object oriented language as everything in java should be enclosed, basically inside a class. There can be no global variables or functions. 
 
